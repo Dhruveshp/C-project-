@@ -1,0 +1,39 @@
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\bin\Debug\Patel Tech.exe.config
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\bin\Debug\Patel Tech.exe
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\bin\Debug\Patel Tech.pdb
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Patel Tech.csprojResolveAssemblyReference.cache
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddNewInventory.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddSupport.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\MainWindow.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\App.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Patel Tech_MarkupCompile.cache
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Patel Tech_MarkupCompile.lref
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddNewInventory.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddSupport.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\MainWindow.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Patel Tech.g.resources
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Patel_Tech.Properties.Resources.resources
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Patel Tech.csproj.GenerateResource.Cache
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Patel Tech.exe
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Patel Tech.pdb
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddClearance.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddEmployee.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddNewPromotion.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddNewSuplier.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddClearance.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddEmployee.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddNewPromotion.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\AddNewSuplier.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Listofsupplier.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Listofsupplier.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\listofEmployee.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\listofEmployee.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\ListOfInventory.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\ListOfInventory.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Listofclearance.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Listofclearance.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\ListOfSupport.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\ListOfSupport.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\ListOfPromotion.g.cs
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\ListOfPromotion.baml
+C:\Users\Dhruvesh\Desktop\IT 330\Project file\Project\Patel Tech\Patel Tech\obj\Debug\Patel Tech.csproj.CoreCompileInputs.cache
